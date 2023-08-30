@@ -8,10 +8,9 @@ In this section, we focus on testing the `org.jfree.data.time.Quarter` class fro
 
 The following deliverables are included:
 
-    JFreeChart.jar: A modified version of the JFreeChart library specifically for this assignment.
+    JFreeChart.jar: A modified version of the JFreeChart library specifically for this testing.
     Libraries: A set of required libraries for compiling the JFreeChart jar file.
     QuarterClassTest.java: A sample test file that provides a passing test case.
-    Modified JavaDocs: A zip file containing the JavaDocs for the JFreeChart application.
 
 Bugs Report provided, documenting the methods to be tested, test cases, their status (Passed or Failed), and additional notes.
 
