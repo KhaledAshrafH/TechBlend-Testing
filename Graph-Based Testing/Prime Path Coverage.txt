@@ -1,0 +1,34 @@
+Prime Path Coverage
+-------------------
+
+Test Paths:-
+
+Test path:- [1,2]
+test case:- startNumber=10, endNumber=2 and output (return value) = -1
+
+Test path:- [1,3,5,6,7,8,16,6,7,8,16,6,7,9,10,14,15]
+test case:- startNumber=2, endNumber=4 and output (return value) = 2
+
+Test path:- [1,3,5,6,7,9,10,11,13,10,11,13,10,14,15]
+test case:- startNumber=5, endNumber=5 and output (return value) = 5
+
+Test path:- [1,3,5,6,7,9,10,14,16,6,7,9,10,11,12,14,16,6,7,9,10,11,12,14,16,6,7,9,10,14,16,6,7,9,10,14,15]
+test case:- startNumber=4, endNumber=16 and output (return value) = 10
+
+Test path:- [1,3,5,6,7,8,16,6,17]
+test case:- startNumber=2, endNumber=2 and output (return value) = -1
+
+Test path:- [1,3,5,6,7,9,10,11,12,14,16,6,17]
+test case:- startNumber=4, endNumber=4 and output (return value) = 5
+
+Test path:- [1,3,5,6,7,9,10,11,13,10,14,15]
+test case:- startNumber=3, endNumber=3 and output (return value) = 3
+
+Test path:- [1,3,5,6,7,9,10,11,13,10,11,12,14,16,6,17]
+test case:- startNumber=9, endNumber=9 and output (return value) = -1
+
+Test path:- [1,3,4]
+test case:- startNumber=1, endNumber=10 and output (return value) = -1
+
+
+
