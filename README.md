@@ -65,8 +65,16 @@ The deliverables for this section include:
     Screenshot: A screenshot of the graph under analysis.
 
 ### Graph Analysis Screenshot
+<br>
+<p align="center" margin="auto">
+    <kbd>
+<img align="center" 
+            src="GraphScreenshot.jpeg"
+            alt="KhaledAshrafH"  width="720" style="border-radius: 20px;"/>
+    </kbd>
+  </p>
 
-![Graph Screenshot](GraphScreenshot.jpeg)
+ 
 
 ## Getting Started
 
